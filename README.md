@@ -1,4 +1,4 @@
-﻿# Teste Quality
+# Teste Quality
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Python 3.10+
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/Teste-Quality.git
@@ -22,7 +22,7 @@ cd Teste-Quality
 pip install -r requirements.txt
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 python main.py
@@ -50,10 +50,10 @@ Teste-Quality/
 └── requirements.txt
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
